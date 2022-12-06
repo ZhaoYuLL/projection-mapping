@@ -235,6 +235,9 @@ a = t_j(2,2,1)
 
 
 #TODO
+#12-06-2022
+#TODO: change line to grid
+#
 #change the graph to a grid
 #plot the graph of ALL the sum of total pressures to a point in a grid
 #max pressure is red
